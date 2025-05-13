@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200..800&family=Skranji:wght@400;700&display=swap');
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: "Skranji", system-ui;
+  background-color: rgb(184, 131, 72);
+}
